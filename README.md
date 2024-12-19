@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LythtyL
 - 👀 I’m interested in java and web developer works
 - 🌱 I’m currently learning javafx, html5, css, sql
-- 📫 How to reach me ...
+- 📫 How to reach me colette.spe@gmail.com
 - 😄 Pronouns: she/her
 
 <!---
